@@ -860,9 +860,4 @@ public class BonusLevel_Jesse_Maes extends BonusLevel implements MouseMotionList
     SwingUtilities.convertPointFromScreen(cursorPos, e.getComponent());
     startCount = System.currentTimeMillis();    
   }
-  
-  public static void main (String[] args)
-  {
-    
-  }
 }
